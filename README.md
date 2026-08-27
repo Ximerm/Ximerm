@@ -18,6 +18,16 @@ Me interesa especialmente desarrollar soluciones digitales que conecten la tecno
 
 Mi formación en desarrollo web incluye React, JavaScript, Node.js, Express y MongoDB, además de experiencia con autenticación, bases de datos, control de versiones y despliegue de aplicaciones.
 
+### 🎯 En qué estoy enfocada
+
+- Desarrollo de aplicaciones web Full-Stack.
+- Desarrollo de interfaces responsivas y accesibles.
+- Creación y consumo de APIs REST.
+- Gestión de bases de datos y persistencia de información.
+- Autenticación y autorización de usuarios.
+- Despliegue y configuración de aplicaciones web.
+- Integración de tecnología con arquitectura y sostenibilidad.
+
 ## 🛠️ Tecnologías y herramientas
 
 ### Frontend
@@ -92,17 +102,7 @@ Colección de proyectos desarrollados durante mi formación en desarrollo web, a
 
 **Tecnologías:** HTML5 · CSS3 · JavaScript · BEM · Flexbox · CSS Grid · Responsive Design · Figma · Git · GitHub
 
-### 🎯 En qué estoy enfocada
-
-- Desarrollo de aplicaciones web Full-Stack.
-- Desarrollo de interfaces responsivas y accesibles.
-- Creación y consumo de APIs REST.
-- Gestión de bases de datos y persistencia de información.
-- Autenticación y autorización de usuarios.
-- Despliegue y configuración de aplicaciones web.
-- Integración de tecnología con arquitectura y sostenibilidad.
-
-  ## 🎓 Formación
+## 🎓 Formación
 
 **Desarrollador Web Full-Stack** — TripleTen Bootcamp  
 2025 – 2026
@@ -114,18 +114,6 @@ Universitat Ramon Llull – La Salle Barcelona · 2015 – 2017
 
 **Arquitecta**  
 Universidad del Valle · 2004 – 2009
-
-## 🛠️ Tecnologías
-
-**Frontend**  
-HTML5 · CSS3 · JavaScript · React · Responsive Design · BEM · Flexbox · CSS Grid
-
-**Backend**  
-Node.js · Express.js · REST APIs · MongoDB · Mongoose · JWT
-
-**Herramientas y despliegue**  
-Git · GitHub · Figma · Nginx · PM2 · Vercel
-
 
 ## 📫 Contacto
 
