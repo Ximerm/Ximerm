@@ -104,7 +104,7 @@ Colección de proyectos desarrollados durante mi formación en desarrollo web, a
 
 ## 🎓 Formación
 
-**Desarrollador Web Full-Stack** — TripleTen Bootcamp  
+**Desarrollo Web Full-Stack** — TripleTen Bootcamp  
 2025 – 2026
 
 Formación especializada en desarrollo web Front-End y Back-End, incluyendo React, JavaScript, Node.js, Express, MongoDB, APIs REST, autenticación, Git y despliegue.
