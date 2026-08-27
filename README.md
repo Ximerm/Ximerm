@@ -75,32 +75,8 @@ Integra datos climáticos, clasificación Caldas-Lang, análisis de rosa de vien
 💻 **Frontend:** https://github.com/Ximerm/ecobuildlab-frontend  
 ⚙️ **Backend:** https://github.com/Ximerm/ecobuildlab-backend
 
----
-
-### 🌎 Around the U.S. — Aplicación Web Full-Stack
-
-Aplicación web desarrollada progresivamente durante varios sprints, evolucionando desde una interfaz responsiva hasta una aplicación Full-Stack con React, API REST, base de datos y autenticación.
-
-Incluye gestión de perfiles y tarjetas, likes, formularios, validación, manejo de errores y rutas protegidas.
-
-**Tecnologías:** React · JavaScript · Node.js · Express · MongoDB · Mongoose · REST API · JWT · Nginx · PM2
-
-🔗 **Demo:** https://aroundxr.duckdns.org/  
-💻 **GitHub:** https://github.com/Ximerm/web_project_api_full
-
----
-
-### 💻 Proyectos Front-End
-
-Colección de proyectos desarrollados durante mi formación en desarrollo web, aplicando HTML, CSS, JavaScript, diseño responsive y buenas prácticas de organización del código.
-
-**Proyectos:**
-
-- 📚 [Library](https://github.com/Ximerm/web_project_library)
-- ☕ [Coffee Shop](https://github.com/Ximerm/web_project_coffeeshop)
-- 🌎 [De patria a patria](https://github.com/Ximerm/web_project_homeland)
-
-**Tecnologías:** HTML5 · CSS3 · JavaScript · BEM · Flexbox · CSS Grid · Responsive Design · Figma · Git · GitHub
+**Más proyectos:**  
+Puedes consultar el resto de mis proyectos de desarrollo web en mi [portfolio](https://ximena-rodriguez-portfolio.vercel.app/).
 
 ## 🎓 Formación
 
